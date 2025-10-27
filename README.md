@@ -1,2 +1,2 @@
 # 400VivacWeb
-Aplicación web para la ayuda de acampar al aire libre.
+Aplicación web para ayudar a encontrar zonas de vivac.
